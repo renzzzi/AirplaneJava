@@ -1,2 +1,2 @@
 # AirplaneJava
-Just a normal airplane that you can add passengers
+Just a normal airplane where you can add passengers
